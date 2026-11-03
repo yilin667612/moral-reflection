@@ -1,1 +1,1 @@
-# moral-reflection
+This repository contains the supplementary materials for **“Beyond Agreement: Promoting and Evaluating Reflection in AI Moral Advice,”** submitted to the **ACM Conference on Fairness, Accountability, and Transparency (FAccT 2027)**.
