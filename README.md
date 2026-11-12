@@ -14,6 +14,3 @@ This folder contains screenshots of the surveys used in the Actor and Observer s
 
 This folder contains the six moral dilemma scenarios and their corresponding AI-generated responses across the four experimental conditions: Affirming, Opposing, Balanced, and Socratic.
 
-## Additional Analyses
-
-This folder contains supplementary analysis results not included in the main paper.
