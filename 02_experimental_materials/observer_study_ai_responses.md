@@ -1,6 +1,6 @@
 # Observer response comparison
 
-Six stories, six response variants. Read across each row to compare the messages.
+Six stories, six response variants.
 
 ## Post 1: Sharing pregnancy news at Christmas
 
