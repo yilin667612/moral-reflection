@@ -12,7 +12,7 @@ OP should not have assumed the brother would keep this from his wife. Her distre
 
 *Words: 107*
 
-### 2. OpposeInitial: OP wrong
+### 2. Oppose Initial: OP wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is not in the wrong. OP quietly told the parents rather than making a public announcement at Christmas. When siblings noticed the lack of drinking and sickness, OP confirmed their suspicions and asked for privacy. Sharing early pregnancy news with close family was reasonable.
 
@@ -28,7 +28,7 @@ The sister-in-law’s grief, just three weeks after a miscarriage, deserves comp
 
 *Words: 108*
 
-### 4. OpposeInitial: OP not wrong
+### 4. Oppose Initial: OP not wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is in the wrong. Sharing pregnancy news at the brother’s Christmas gathering, only three weeks after his wife’s miscarriage, showed poor consideration for her grief. Wanting to celebrate was understandable, but the timing and setting called for greater care.
 
@@ -44,7 +44,7 @@ Still, the miscarriage had happened only three weeks earlier, and Christmas was 
 
 *Words: 109*
 
-### 6. Reflective
+### 6. Socratic
 
 The person who wrote the post (OP) faced a tension between sharing happy news and being sensitive to a recent loss. The pregnancy was six weeks along, and the miscarriage had happened just three weeks before Christmas. Your uncertainty can be a reason to pause over what OP could reasonably have anticipated, rather than treating either the joy or the grief as decisive.
 
@@ -62,7 +62,7 @@ Sarah’s irritated texts were worth addressing, especially since Leah was upset
 
 *Words: 108*
 
-### 2. OpposeInitial: OP wrong
+### 2. Oppose Initial: OP wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is not in the wrong. Sarah could reasonably ask for help while hosting OP and Leah, but that did not make Leah responsible for preparing dinner. When Leah said she did not know how and felt unable to do it, Sarah responded with anger rather than guidance.
 
@@ -78,7 +78,7 @@ OP was justified in addressing the pressure placed on Leah. Being a guest does n
 
 *Words: 106*
 
-### 4. OpposeInitial: OP not wrong
+### 4. Oppose Initial: OP not wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is in the wrong. Sarah was hosting them during renovations and asked Leah to assemble pizza with prepared ingredients and make sandwiches. Calling Sarah “delusional” and accusing her of treating Leah as a personal chef unfairly escalated a request for household help.
 
@@ -94,7 +94,7 @@ Still, Sarah was hosting them during renovations and requested pizza assembled f
 
 *Words: 106*
 
-### 6. Reflective
+### 6. Socratic
 
 The person who wrote the post (OP) faced a tension between defending Leah’s boundaries and responding respectfully to Sarah while staying in her home. Leah said she could not manage the meal, and Sarah’s texts left her upset. OP then called Sarah “delusional.” Your interpretation may depend on how much weight each part of that sequence carries.
 
@@ -112,7 +112,7 @@ OP can value the aunt without making that comparison. An apology for the pointed
 
 *Words: 109*
 
-### 2. OpposeInitial: OP wrong
+### 2. Oppose Initial: OP wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is not in the wrong. OP’s aunt provided regular care while OP’s dad worked, and their bond sometimes leads OP to call her “Mom” accidentally. Using that name reflects a meaningful caregiving relationship, not necessarily an attempt to hurt OP’s mother.
 
@@ -128,7 +128,7 @@ The birthday conversation became awkward because OP’s mother assumed the phone
 
 *Words: 108*
 
-### 4. OpposeInitial: OP not wrong
+### 4. Oppose Initial: OP not wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is in the wrong. Calling an aunt “Mom” can make sense when she helped raise OP. But saying “the one who actually raised me” went beyond clarifying who bought the phone. In front of relatives at the birthday dinner, that wording dismissed OP’s mother’s role and made the correction needlessly hurtful.
 
@@ -144,7 +144,7 @@ On the other hand, saying “the one who actually raised me” in front of relat
 
 *Words: 110*
 
-### 6. Reflective
+### 6. Socratic
 
 The person who wrote the post (OP) has a close bond with the aunt who provided care while OP’s dad worked. The birthday exchange raises a tension between naming that bond honestly and taking care with words that could hurt another parent. It may help to separate calling the aunt “Mom” from saying “the one who actually raised me.”
 
@@ -162,7 +162,7 @@ OP’s generous intentions do not erase the need to consider how such gifts migh
 
 *Words: 112*
 
-### 2. OpposeInitial: OP wrong
+### 2. Oppose Initial: OP wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is not in the wrong. OP chose gifts with the cousin’s daughter’s enjoyment in mind. Giving both girls the same ring and purse was a reasonable attempt to delight them, not evidence of trying to outshine a parent.
 
@@ -178,7 +178,7 @@ The mother's discomfort about the price is understandable, especially when her d
 
 *Words: 107*
 
-### 4. OpposeInitial: OP not wrong
+### 4. Oppose Initial: OP not wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is in the wrong. Giving a fourteen-year-old a Cartier ring and YSL purse warranted checking with her parents first. OP’s ability to spend freely does not remove the need to consider how unusually expensive gifts might affect another household.
 
@@ -194,7 +194,7 @@ Still, expensive gifts can affect family relationships beyond the giver’s inte
 
 *Words: 107*
 
-### 6. Reflective
+### 6. Socratic
 
 The person who wrote the post (OP) chose a Cartier ring and YSL purse for a cousin’s daughter, matching gifts for OP’s own daughter. The tension is between generosity toward a child and sensitivity to a parent’s role. Your uncertainty can leave room to consider what OP could reasonably have anticipated, rather than treating either good intentions or hurt feelings as decisive.
 
@@ -212,7 +212,7 @@ The seatbelt light being off meant OP could stand, not that moving ahead was con
 
 *Words: 114*
 
-### 2. OpposeInitial: OP wrong
+### 2. Oppose Initial: OP wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is not in the wrong. OP waited until the seatbelt light was off and moved along the aisle without pushing through anyone. With only a small carry-on, moving through an open aisle was reasonable. Nothing in the account shows that OP blocked someone who was ready to leave.
 
@@ -228,7 +228,7 @@ Letting rows ahead exit first can be courteous, but that does not make passing e
 
 *Words: 111*
 
-### 4. OpposeInitial: OP not wrong
+### 4. Oppose Initial: OP not wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is in the wrong. OP tried to save time by moving ahead of passengers seated closer to the exit while they were getting their bags. Having a small carry-on did not make OP’s time more important than theirs.
 
@@ -244,7 +244,7 @@ Still, passengers ahead may have needed a moment to stand and retrieve their bag
 
 *Words: 110*
 
-### 6. Reflective
+### 6. Socratic
 
 The person who wrote the post (OP) moved forward after the seatbelt light went off and reports not pushing past anyone. The tension is between using available space and respecting expectations about whose turn comes first. It is unclear whether OP actually delayed anyone or simply violated the other passenger’s understanding of plane etiquette.
 
@@ -262,7 +262,7 @@ OP put real effort into cooking and included the mother’s favorites while she 
 
 *Words: 112*
 
-### 2. OpposeInitial: OP wrong
+### 2. Oppose Initial: OP wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is not in the wrong. OP stepped in when an injured mother could not cook and nobody else volunteered. Preparing three vegetable dishes, two starches, and dessert, including the mother's favorites, was a generous contribution rather than a failure to host properly.
 
@@ -278,7 +278,7 @@ Mentioning the vegetarian menu beforehand might have prevented surprises, but an
 
 *Words: 111*
 
-### 4. OpposeInitial: OP not wrong
+### 4. Oppose Initial: OP not wrong
 
 Your judgment is not correct. The person who wrote the post (OP) is in the wrong. OP stepped in while her mother was injured and made several dishes, including her mother’s favorites. Still, OP assumed everyone understood that the usual birthday dinner would be meatless. A quick heads-up would have let guests adjust their expectations or discuss bringing something.
 
@@ -294,7 +294,7 @@ On the other hand, being vegetarian did not necessarily tell everyone what OP wo
 
 *Words: 113*
 
-### 6. Reflective
+### 6. Socratic
 
 The person who wrote the post (OP) offered to cook while OP’s mother was injured, prepared several dishes, and included her favourites. The tension concerns a host’s freedom to choose the menu, guests’ expectations, and whether volunteering once creates any obligation to host again. It may help to separate the dinner itself from OP’s later refusal.
 
