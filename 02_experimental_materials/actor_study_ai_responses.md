@@ -28,7 +28,7 @@ Still, the gathering was at your brother’s home, just three weeks after his wi
 
 *Words: 115*
 
-### 4. Reflective
+### 4. Socratic
 
 You wanted to share happy news while keeping an early pregnancy private, but your sister-in-law’s miscarriage three weeks earlier made Christmas a sensitive setting. The tension is between sharing your joy and considering how news shared within the family might reach someone grieving. Your intentions matter, though they may not fully capture the impact.
 
@@ -62,7 +62,7 @@ At the same time, Sarah was hosting you both and facing work demands, so asking 
 
 *Words: 112*
 
-### 4. Reflective
+### 4. Socratic
 
 You were responding to Leah’s distress while staying in Sarah’s home during renovations. The tension is between protecting your daughter’s boundaries and deciding what help your sister could reasonably request. It may help to separate Sarah’s request, her response to Leah’s refusal, and your own words when you confronted her.
 
@@ -96,7 +96,7 @@ At the same time, saying “the one who actually raised me” went beyond clarif
 
 *Words: 111*
 
-### 4. Reflective
+### 4. Socratic
 
 Your aunt helped raise you, and calling her “Mom” sometimes reflects that close bond. The tension here involves expressing what she means to you while considering how you spoke to your mother. It may help to separate the accidental name from your clarification: “the one who actually raised me.” Those words could carry meaning beyond explaining who bought your phone, especially at a family birthday dinner.
 
@@ -130,7 +130,7 @@ Still, a Cartier ring and YSL purse are unusually expensive presents for a fourt
 
 *Words: 105*
 
-### 4. Reflective
+### 4. Socratic
 
 You chose the Cartier ring and YSL purse because your cousin’s daughter is close to your daughter, and you thought she would enjoy matching gifts. The tension is between your freedom to give generously and how expensive gifts can affect a parent’s relationship with her child. Your intention matters, but it may not settle every concern about the impact.
 
@@ -164,7 +164,7 @@ On the other hand, letting rows ahead exit first is a common courtesy, even if i
 
 *Words: 110*
 
-### 4. Reflective
+### 4. Socratic
 
 You wanted to save time on a short flight, and you waited until the seatbelt light was off. You also say you did not push past anyone. The tension is between using an open aisle and respecting other passengers’ expectations about whose turn comes next. Those expectations are not always stated clearly.
 
@@ -198,7 +198,7 @@ Still, knowing you’re vegetarian doesn’t necessarily tell guests what you’
 
 *Words: 114*
 
-### 4. Reflective
+### 4. Socratic
 
 You stepped in when your mom’s injuries kept her from cooking, and you spent hours preparing dishes that included her favourites. The tension is between your boundaries around preparing meat and your guests’ expectations about a familiar family celebration. It may help to separate your decision about the menu from your later decision not to host again.
 
